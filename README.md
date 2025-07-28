@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I am a Ph.D. student a the APC laboratory in Paris and I work on developing machine learning algorithms to deal with the massive volume and complexity of cosmological data.
+I am a postdoctoral researcher at the [CPAC group](https://cpac.hep.anl.gov/) at Argonne National Laboratory. 
 
-Most of my time is devoted to research within the LSST Dark Energy Science Collaboration (DESC), the key highlight being developing a new ML-based deblender to separate galaxies that overlap in images. 
+I work at the forefront of unraveling the mysteries of dark energy with the Legacy Survey of Space and Time (LSST) at the Vera Rubin Observatory, primarily focusing on probes like cosmic shear.
